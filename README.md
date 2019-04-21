@@ -1,6 +1,6 @@
-<h1>Predicting Bike-Sharing Data<h1>
-
-
-A neural network to predict daily bike rental ridership
+# Predicting Bike-Sharing Data
 
 project1 -- Udacity DeepLearning nanodegree --
+A neural network to predict daily bike rental ridership
+
+
